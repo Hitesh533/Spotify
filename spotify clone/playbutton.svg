@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" data-encore-id="icon" role="img" aria-hidden="true" viewBox="0 0 24 24" class="Svg-sc-ytk21e-0 bneLcE">
+  <defs>
+    <clipPath id="circle-clip">
+      <circle cx="12" cy="12" r="12"/>
+    </clipPath>
+  </defs>
+  <rect x="0" y="0" width="24" height="24" fill="none" clip-path="url(#circle-clip)"/>
+  <path d="m7.05 3.606 13.49 7.788a.7.7 0 0 1 0 1.212L7.05 20.394A.7.7 0 0 1 6 19.788V4.212a.7.7 0 0 1 1.05-.606z" fill="#000"/>
+</svg>
